@@ -1,5 +1,11 @@
 # Waste-Management
 AICTE - Shell Internship on Al with Green Skills Week1
+--"Standardized input size and reduced memory Storage
+
+Resized images to a fixed dimension Converting images into  128x128  to standardize input size and reduce memory usage."--
+These changes make a lot of difference in large datasets, minimizes memory wastage.
+
+
 Waste Management Image Classification
 This repository contains a script for preprocessing and analyzing a waste management dataset for image classification tasks. The goal is to classify waste into categories such as "organic" and "recyclable." Below is an overview of the workflow:
 
